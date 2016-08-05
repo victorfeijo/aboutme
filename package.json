@@ -1,7 +1,7 @@
 {
-  "name": "openshift-cartridge-nodejs-template",
+  "name": "About me - victorfeijo",
   "version": "1.0.1",
-  "description": "Custom Node.js cartridge for OpenShift - sample application",
+  "description": "Node.js cartridge from OpenShift",
   "private": true,
   "main": "start.js",
   "scripts": {
