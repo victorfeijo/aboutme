@@ -5,7 +5,7 @@ const http         = require('http'),
       sysInfo      = require('./utils/sys-info'),
       env          = process.env;
 
-let server = http.createServer(function (req, res) {
+let server = http.createServer( (req, res) => {
   let url = req.url;
   if (url == '/') {
     url += 'index.html';
