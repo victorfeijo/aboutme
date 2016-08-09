@@ -53,6 +53,13 @@ a:hover {
   padding: 10px;
   border-radius: 5px;
   border: 1px dashed #555;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+}
+
+.icons {
+  padding: 20px;
+  width: 3%;
 }
 
 /* Customize scrollbars in webkit */
